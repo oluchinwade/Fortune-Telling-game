@@ -15,3 +15,5 @@ class Game:
 
     def RandomNumberGeration():
         pass
+    def OtherOptions():
+        pass
